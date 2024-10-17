@@ -1,2 +1,3 @@
 # apnacollage-demo
-authon - Arindam Chaki
+this is my first repo 
+author - Arindam Chaki
